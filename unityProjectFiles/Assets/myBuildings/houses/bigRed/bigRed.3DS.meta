@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: c5248006a6f1bec48a3f918d3f2ec42c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: ____
+    100002: Line02
+    100004: Line01
+    100006: Box01
+    100008: 14     011
+    100010: 13     011
+    100012: 12     011
+    100014: 10     011
+    100016: 9      011
+    100018: 8      011
+    100020: 7      011
+    100022: 6      011
+    100024: 5      011
+    100026: 4      011
+    100028: 3      011
+    100030: 2      011
+    100032: 0      011
+    100034: //RootNode
+    400000: ____
+    400002: Line02
+    400004: Line01
+    400006: Box01
+    400008: 14     011
+    400010: 13     011
+    400012: 12     011
+    400014: 10     011
+    400016: 9      011
+    400018: 8      011
+    400020: 7      011
+    400022: 6      011
+    400024: 5      011
+    400026: 4      011
+    400028: 3      011
+    400030: 2      011
+    400032: 0      011
+    400034: //RootNode
+    2300000: ____
+    2300002: Line02
+    2300004: Line01
+    2300006: Box01
+    2300008: 14     011
+    2300010: 13     011
+    2300012: 12     011
+    2300014: 10     011
+    2300016: 9      011
+    2300018: 8      011
+    2300020: 7      011
+    2300022: 6      011
+    2300024: 5      011
+    2300026: 4      011
+    2300028: 3      011
+    2300030: 2      011
+    2300032: 0      011
+    3300000: ____
+    3300002: Line02
+    3300004: Line01
+    3300006: Box01
+    3300008: 14     011
+    3300010: 13     011
+    3300012: 12     011
+    3300014: 10     011
+    3300016: 9      011
+    3300018: 8      011
+    3300020: 7      011
+    3300022: 6      011
+    3300024: 5      011
+    3300026: 4      011
+    3300028: 3      011
+    3300030: 2      011
+    3300032: 0      011
+    4300000: 0      011
+    4300002: 2      011
+    4300004: 3      011
+    4300006: 4      011
+    4300008: 5      011
+    4300010: 6      011
+    4300012: 7      011
+    4300014: 8      011
+    4300016: 9      011
+    4300018: 10     011
+    4300020: 12     011
+    4300022: 13     011
+    4300024: 14     011
+    4300026: Box01
+    4300028: Line01
+    4300030: Line02
+    4300032: ____
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

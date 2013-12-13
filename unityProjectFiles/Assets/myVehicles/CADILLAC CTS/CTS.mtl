@@ -1,0 +1,794 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl License
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd plate.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl wind_glass
+Ka 0 0.0901961 0.133333
+Kd 0 0.0901961 0.133333
+Ks 0.9 0.9 0.9
+illum 2
+Ns 22.6274
+d 0.42
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 32
+map_Kd CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd H:\\CADILL~1\\CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__582
+Ka 0.172549 0.172549 0.172549
+Kd 0.172549 0.172549 0.172549
+Ks 0.9 0.9 0.9
+illum 2
+Ns 24.2515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl License0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd plate.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome
+Ka 0.756863 0.756863 0.756863
+Kd 0.756863 0.756863 0.756863
+Ks 0.9 0.9 0.9
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Base
+Ka 0 0.0901961 0.133333
+Kd 0 0.0901961 0.133333
+Ks 0.9 0.9 0.9
+illum 2
+Ns 22.6274
+d 0.42
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__585
+Ka 0.972549 1 0.972549
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 84.4485
+map_Kd CTS BRAKELIGHT.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__586
+Ka 0.47451 0.0666667 0.0431373
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 42.2243
+d 0.45
+map_Kd CTS BRAKELIGHT GLASS.tga
+map_bump 
+bump 
+map_opacity CTS BRAKELIGHT MASK.tga
+map_d CTS BRAKELIGHT MASK.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint0
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 21.1121
+map_Kd CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Hood
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint1
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__589
+Ka 0.301961 0.301961 0.301961
+Kd 0.301961 0.301961 0.301961
+Ks 0.9 0.9 0.9
+illum 2
+Ns 39.3966
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Mirror
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 55.7152
+map_Kd CTS HEADLIGHT.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__614
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 55.7152
+map_Kd CTS HEADLIGHT.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl HeadLights_R
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 55.7152
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__593
+Ka 0.211765 0.211765 0.211765
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 29.8571
+d 0.31
+map_Kd CTS HEADLIGHT GLASS.tga
+map_bump 
+bump 
+map_opacity CTS HEADLIGHT MASK.tga
+map_d CTS HEADLIGHT MASK.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.952941 0.952941 0.952941
+illum 2
+Ns 34.2967
+map_Kd CTS HEADLIGHT.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Driver
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd H:\\CADILL~1\\DRIVER.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Tire_Sidewall
+Ka 0.192157 0.192157 0.192157
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 27.8576
+map_Kd H:\\CADILL~1\\TIRE.tga
+map_bump H:\\CADILL~1\\TIRE BUMP.tga
+bump H:\\CADILL~1\\TIRE BUMP.tga
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Tire_Back
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 5.65685
+map_Kd 
+map_bump 
+bump 
+map_opacity H:\\CADILL~1\\TIREBACK.tga
+map_d H:\\CADILL~1\\TIREBACK.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Tire_Tread
+Ka 0.192157 0.192157 0.192157
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 17.1484
+map_Kd H:\\CADILL~1\\TREAD.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome0
+Ka 0.756863 0.756863 0.756863
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 16
+map_Kd CTS TIRE.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Mat
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd CTS TIRE.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Tire
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 27.8576
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interior
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 48.5029
+map_Kd CTS INTERIOR.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Disc
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 18.3792
+map_Kd H:\\CADILL~1\\BRAKDISC.tga
+map_bump 
+bump 
+map_opacity H:\\CADILL~1\\TIREBACK.tga
+map_d H:\\CADILL~1\\TIREBACK.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Pads
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 24.2515
+map_Kd H:\\CADILL~1\\CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brakes_Right
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 18.3792
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Disc0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 14.9285
+map_Kd BRAKDISC.tga
+map_bump 
+bump 
+map_opacity H:\\CADILL~1\\TIREBACK.tga
+map_d H:\\CADILL~1\\TIREBACK.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Pads0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 25.9921
+map_Kd CTS MISC MIRROR.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brakes_Left
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint2
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd H:\\CADILL~1\\DOORLINE.tga
+map_bump 
+bump 
+map_opacity H:\\CADILL~1\\DOORLINE MASK.tga
+map_d H:\\CADILL~1\\DOORLINE MASK.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 36.7583
+map_Kd CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 24.2515
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd CTS BADGING.tga
+map_bump H:\\CADILL~1\\CTS BADGING NORMAL.tga
+bump H:\\CADILL~1\\CTS BADGING NORMAL.tga
+map_opacity H:\\CADILL~1\\CTS BADGING MASK.tga
+map_d H:\\CADILL~1\\CTS BADGING MASK.tga
+refl H:\\CADILL~1\\CTS BADGING MASK.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint3
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 39.3966
+map_Kd H:\\CADILL~1\\CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd H:\\CADILL~1\\CTS MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Hood_Carbon
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 8.57419
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 

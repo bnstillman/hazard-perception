@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: fbd90453ed5bfe84b87d9ed9d830e307
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Panel Azul
+    100002: -PANEL AZU
+    100004: Circus01
+    100006: -CIRCUS
+    100008: Tensores01
+    100010: -TENSORES
+    100012: Panel Roj2
+    100014: Panel Roj1
+    100016: Panel Roj0
+    100018: Panel Rojo
+    100020: -PANEL ROJ
+    100022: Panel Ama1
+    100024: Panel Ama0
+    100026: Panel Amar
+    100028: -PANEL AMA
+    100030: Espejos07
+    100032: Espejos10
+    100034: Espejos02
+    100036: Espejos09
+    100038: Espejos08
+    100040: Espejos01
+    100042: Espejos06
+    100044: Espejos05
+    100046: Espejos04
+    100048: Espejos03
+    100050: Espejos12
+    100052: Espejos11
+    100054: Espejos13
+    100056: -ESPEJOS
+    100058: Decor19
+    100060: Decor18
+    100062: Decor17
+    100064: Decor16
+    100066: Decor15
+    100068: Decor14
+    100070: Decor13
+    100072: Decor12
+    100074: Decor11
+    100076: Decor10
+    100078: Decor09
+    100080: Decor08
+    100082: Decor07
+    100084: Decor06
+    100086: Decor05
+    100088: Decor04
+    100090: Decor03
+    100092: Decor02
+    100094: Decor01
+    100096: Decor20
+    100098: -DECOR
+    100100: Piso08
+    100102: Piso07
+    100104: Piso06
+    100106: Piso05
+    100108: Piso04
+    100110: Piso03
+    100112: Piso02
+    100114: Piso01
+    100116: Piso09
+    100118: -PISO
+    100120: Viga01
+    100122: -VIGA
+    100124: Bastones12
+    100126: Bastones03
+    100128: Bastones04
+    100130: Bastones05
+    100132: Bastones08
+    100134: Bastones07
+    100136: Bastones06
+    100138: Bastones02
+    100140: Bastones01
+    100142: Bastones11
+    100144: Bastones10
+    100146: Bastones09
+    100148: Bastones13
+    100150: -BASTONES
+    100152: Bandera01
+    100154: -BANDERA
+    100156: VRayProxy9
+    100158: VRayProxy8
+    100160: VRayProxy7
+    100162: VRayProxy6
+    100164: VRayProxy5
+    100166: VRayProxy4
+    100168: VRayProxy3
+    100170: VRayProxy2
+    100172: VRayProxy1
+    100174: VRayProxy0
+    100176: VRayProxy_
+    100178: Horses
+    100180: //RootNode
+    400000: Panel Azul
+    400002: -PANEL AZU
+    400004: Circus01
+    400006: -CIRCUS
+    400008: Tensores01
+    400010: -TENSORES
+    400012: Panel Roj2
+    400014: Panel Roj1
+    400016: Panel Roj0
+    400018: Panel Rojo
+    400020: -PANEL ROJ
+    400022: Panel Ama1
+    400024: Panel Ama0
+    400026: Panel Amar
+    400028: -PANEL AMA
+    400030: Espejos07
+    400032: Espejos10
+    400034: Espejos02
+    400036: Espejos09
+    400038: Espejos08
+    400040: Espejos01
+    400042: Espejos06
+    400044: Espejos05
+    400046: Espejos04
+    400048: Espejos03
+    400050: Espejos12
+    400052: Espejos11
+    400054: Espejos13
+    400056: -ESPEJOS
+    400058: Decor19
+    400060: Decor18
+    400062: Decor17
+    400064: Decor16
+    400066: Decor15
+    400068: Decor14
+    400070: Decor13
+    400072: Decor12
+    400074: Decor11
+    400076: Decor10
+    400078: Decor09
+    400080: Decor08
+    400082: Decor07
+    400084: Decor06
+    400086: Decor05
+    400088: Decor04
+    400090: Decor03
+    400092: Decor02
+    400094: Decor01
+    400096: Decor20
+    400098: -DECOR
+    400100: Piso08
+    400102: Piso07
+    400104: Piso06
+    400106: Piso05
+    400108: Piso04
+    400110: Piso03
+    400112: Piso02
+    400114: Piso01
+    400116: Piso09
+    400118: -PISO
+    400120: Viga01
+    400122: -VIGA
+    400124: Bastones12
+    400126: Bastones03
+    400128: Bastones04
+    400130: Bastones05
+    400132: Bastones08
+    400134: Bastones07
+    400136: Bastones06
+    400138: Bastones02
+    400140: Bastones01
+    400142: Bastones11
+    400144: Bastones10
+    400146: Bastones09
+    400148: Bastones13
+    400150: -BASTONES
+    400152: Bandera01
+    400154: -BANDERA
+    400156: VRayProxy9
+    400158: VRayProxy8
+    400160: VRayProxy7
+    400162: VRayProxy6
+    400164: VRayProxy5
+    400166: VRayProxy4
+    400168: VRayProxy3
+    400170: VRayProxy2
+    400172: VRayProxy1
+    400174: VRayProxy0
+    400176: VRayProxy_
+    400178: Horses
+    400180: //RootNode
+    2300000: Panel Azul
+    2300002: Circus01
+    2300004: Tensores01
+    2300006: Panel Roj2
+    2300008: Panel Roj1
+    2300010: Panel Roj0
+    2300012: Panel Ama1
+    2300014: Panel Ama0
+    2300016: Espejos07
+    2300018: Espejos10
+    2300020: Espejos02
+    2300022: Espejos09
+    2300024: Espejos08
+    2300026: Espejos01
+    2300028: Espejos06
+    2300030: Espejos05
+    2300032: Espejos04
+    2300034: Espejos03
+    2300036: Espejos12
+    2300038: Espejos11
+    2300040: Decor19
+    2300042: Decor18
+    2300044: Decor17
+    2300046: Decor16
+    2300048: Decor15
+    2300050: Decor14
+    2300052: Decor13
+    2300054: Decor12
+    2300056: Decor11
+    2300058: Decor10
+    2300060: Decor09
+    2300062: Decor08
+    2300064: Decor07
+    2300066: Decor06
+    2300068: Decor05
+    2300070: Decor04
+    2300072: Decor03
+    2300074: Decor02
+    2300076: Decor01
+    2300078: Piso08
+    2300080: Piso07
+    2300082: Piso06
+    2300084: Piso05
+    2300086: Piso04
+    2300088: Piso03
+    2300090: Piso02
+    2300092: Piso01
+    2300094: Viga01
+    2300096: Bastones12
+    2300098: Bastones03
+    2300100: Bastones04
+    2300102: Bastones05
+    2300104: Bastones08
+    2300106: Bastones07
+    2300108: Bastones06
+    2300110: Bastones02
+    2300112: Bastones01
+    2300114: Bastones11
+    2300116: Bastones10
+    2300118: Bastones09
+    2300120: Bandera01
+    2300122: VRayProxy9
+    2300124: VRayProxy8
+    2300126: VRayProxy7
+    2300128: VRayProxy6
+    2300130: VRayProxy5
+    2300132: VRayProxy4
+    2300134: VRayProxy3
+    2300136: VRayProxy2
+    2300138: VRayProxy1
+    2300140: VRayProxy0
+    2300142: VRayProxy_
+    3300000: Panel Azul
+    3300002: Circus01
+    3300004: Tensores01
+    3300006: Panel Roj2
+    3300008: Panel Roj1
+    3300010: Panel Roj0
+    3300012: Panel Ama1
+    3300014: Panel Ama0
+    3300016: Espejos07
+    3300018: Espejos10
+    3300020: Espejos02
+    3300022: Espejos09
+    3300024: Espejos08
+    3300026: Espejos01
+    3300028: Espejos06
+    3300030: Espejos05
+    3300032: Espejos04
+    3300034: Espejos03
+    3300036: Espejos12
+    3300038: Espejos11
+    3300040: Decor19
+    3300042: Decor18
+    3300044: Decor17
+    3300046: Decor16
+    3300048: Decor15
+    3300050: Decor14
+    3300052: Decor13
+    3300054: Decor12
+    3300056: Decor11
+    3300058: Decor10
+    3300060: Decor09
+    3300062: Decor08
+    3300064: Decor07
+    3300066: Decor06
+    3300068: Decor05
+    3300070: Decor04
+    3300072: Decor03
+    3300074: Decor02
+    3300076: Decor01
+    3300078: Piso08
+    3300080: Piso07
+    3300082: Piso06
+    3300084: Piso05
+    3300086: Piso04
+    3300088: Piso03
+    3300090: Piso02
+    3300092: Piso01
+    3300094: Viga01
+    3300096: Bastones12
+    3300098: Bastones03
+    3300100: Bastones04
+    3300102: Bastones05
+    3300104: Bastones08
+    3300106: Bastones07
+    3300108: Bastones06
+    3300110: Bastones02
+    3300112: Bastones01
+    3300114: Bastones11
+    3300116: Bastones10
+    3300118: Bastones09
+    3300120: Bandera01
+    3300122: VRayProxy9
+    3300124: VRayProxy8
+    3300126: VRayProxy7
+    3300128: VRayProxy6
+    3300130: VRayProxy5
+    3300132: VRayProxy4
+    3300134: VRayProxy3
+    3300136: VRayProxy2
+    3300138: VRayProxy1
+    3300140: VRayProxy0
+    3300142: VRayProxy_
+    4300000: VRayProxy_
+    4300002: Bandera01
+    4300004: Bastones09
+    4300006: Bastones10
+    4300008: Bastones11
+    4300010: Bastones01
+    4300012: Bastones02
+    4300014: Bastones06
+    4300016: Bastones07
+    4300018: Bastones08
+    4300020: Bastones05
+    4300022: Bastones04
+    4300024: Bastones03
+    4300026: Bastones12
+    4300028: Viga01
+    4300030: Piso01
+    4300032: Piso02
+    4300034: Piso03
+    4300036: Piso04
+    4300038: Piso05
+    4300040: Piso06
+    4300042: Piso07
+    4300044: Piso08
+    4300046: Decor01
+    4300048: Decor01
+    4300050: Decor01
+    4300052: Decor01
+    4300054: Decor01
+    4300056: Decor01
+    4300058: Decor01
+    4300060: Decor01
+    4300062: Decor01
+    4300064: Decor01
+    4300066: Decor01
+    4300068: Decor01
+    4300070: Decor01
+    4300072: Decor01
+    4300074: Decor01
+    4300076: Decor01
+    4300078: Decor01
+    4300080: Decor01
+    4300082: Decor01
+    4300084: Espejos11
+    4300086: Espejos11
+    4300088: Espejos11
+    4300090: Espejos11
+    4300092: Espejos11
+    4300094: Espejos11
+    4300096: Panel Ama0
+    4300098: Panel Ama1
+    4300100: Panel Roj0
+    4300102: Panel Roj1
+    4300104: Panel Roj2
+    4300106: Tensores01
+    4300108: Circus01
+    4300110: Panel Azul
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

@@ -1,0 +1,369 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.10.2007 03:59:00
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3569 0.2235 0.3647
+	Kd 0.3569 0.2235 0.3647
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n1\sidewalk(1).JPG
+	map_Kd D:\trade models\n1\sidewalk(1).JPG
+	map_Ks D:\trade models\textures\sidewalk(1)_SPEC.png
+	map_bump D:\trade models\textures\sidewalk(1)_NRM.png
+	bump D:\trade models\textures\sidewalk(1)_NRM.png
+
+newmtl pishkhanepanjeretex_mat
+	Ns 33.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\ExpConcreteDetail_01_b.JPG
+	map_Kd D:\trade models\n4\ExpConcreteDetail_01_b.JPG
+
+newmtl panjeres_4_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\daremaghaze(5)(2).JPG
+	map_Kd D:\trade models\n4\daremaghaze(5)(2).JPG
+
+newmtl texturebalcon_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\balcon(6)(2).jpg
+	map_Kd D:\trade models\n4\balcon(6)(2).jpg
+
+newmtl Rule3_copy_2_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\dar(11).JPG
+	map_Kd D:\trade models\n4\dar(11).JPG
+
+newmtl kafhayat_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\divarhhhhha(5)(7).jpg
+	map_Kd D:\trade models\n4\divarhhhhha(5)(7).jpg
+
+newmtl Rule3_copy_1_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\dar(8).JPG
+	map_Kd D:\trade models\n4\dar(8).JPG
+
+newmtl Rule82_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\DARHAYEBALA (4).JPG
+	map_Kd D:\trade models\n4\DARHAYEBALA (4).JPG
+
+newmtl Rule3_copy_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\dar(14).JPG
+	map_Kd D:\trade models\n4\dar(14).JPG
+
+newmtl panjeres_5_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\daremaghaze(2)(2).JPG
+	map_Kd D:\trade models\n4\daremaghaze(2)(2).JPG
+
+newmtl Rule3_copy1_copy1_copy_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\daremaghaze(3)(2).JPG
+	map_Kd D:\trade models\n4\daremaghaze(3)(2).JPG
+
+newmtl windos_4_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\panjeree (2)(3).JPG
+	map_Kd D:\trade models\n4\panjeree (2)(3).JPG
+
+newmtl windos_3_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\panjeree (2)(4).JPG
+	map_Kd D:\trade models\n4\panjeree (2)(4).JPG
+
+newmtl windos_2_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\panjeree (2)(5).JPG
+	map_Kd D:\trade models\n4\panjeree (2)(5).JPG
+
+newmtl windos_1_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\panjeree (2)(6).JPG
+	map_Kd D:\trade models\n4\panjeree (2)(6).JPG
+
+newmtl windos_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\panjeree (2)(2).JPG
+	map_Kd D:\trade models\n4\panjeree (2)(2).JPG
+
+newmtl panjeres_3_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\daremaghaze(6)(2).JPG
+	map_Kd D:\trade models\n4\daremaghaze(6)(2).JPG
+
+newmtl topledge2tex_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\6.jpg
+	map_Kd D:\trade models\n4\6.jpg
+
+newmtl Rule80_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\divaregooshe(10).jpg
+	map_Kd D:\trade models\n4\divaregooshe(10).jpg
+
+newmtl Rule2_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\divarhhhhha(2)(10).jpg
+	map_Kd D:\trade models\n4\divarhhhhha(2)(10).jpg
+
+newmtl panjeres_2_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\daremaghaze(9)(2).JPG
+	map_Kd D:\trade models\n4\daremaghaze(9)(2).JPG
+
+newmtl panjeres_1_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\daremaghaze(4)(2).JPG
+	map_Kd D:\trade models\n4\daremaghaze(4)(2).JPG
+
+newmtl panjeres_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\daremaghaze(8)(2).JPG
+	map_Kd D:\trade models\n4\daremaghaze(8)(2).JPG
+
+newmtl TEXTUREDIVARHAYEATRAF_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\divareatraf(7).jpg
+	map_Kd D:\trade models\n4\divareatraf(7).jpg
+
+newmtl Rule3_copy1_copy1_copy_copy_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\roof(2).JPG
+	map_Kd D:\trade models\n4\roof(2).JPG
+
+newmtl Rule2_copy2_mat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\trade models\n4\hayat(3).JPG
+	map_Kd D:\trade models\n4\hayat(3).JPG

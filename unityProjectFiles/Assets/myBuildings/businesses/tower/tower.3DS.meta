@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 08864395695a6844c844cdb4783e0c6f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: OB4 1WRt
+    100002: OB4 1GlF
+    100004: OB4 1WV
+    100006: OB4 1Cl
+    100008: OB4 1Rt
+    100010: OB4 2Fl
+    100012: OB4 1WH
+    100014: OB4 2WV
+    100016: OB4 1Gl
+    100018: //RootNode
+    100020: OB4 2GlF_MeshPart1
+    100022: OB4 L
+    100024: OB4 1WI
+    100026: OB4 2WI
+    100028: OB4 1Fl
+    100030: OB4 2Rt
+    100032: OB4 2WH
+    100034: OB4 2GlF
+    100036: OB4 LB
+    100038: OB4 FpBT
+    100040: OB4 2WRt
+    100042: OB4 2Cl
+    100044: OB4 FpBB
+    100046: OB4 Prm
+    100048: OB4 2Gl
+    100050: OB4 2GlF_MeshPart0
+    100052: OB4 1GlF_MeshPart1
+    100054: OB4 1GlF_MeshPart0
+    100056: OB4 Fp
+    400000: OB4 1WRt
+    400002: OB4 1GlF
+    400004: OB4 1WV
+    400006: OB4 1Cl
+    400008: OB4 1Rt
+    400010: OB4 2Fl
+    400012: OB4 1WH
+    400014: OB4 2WV
+    400016: OB4 1Gl
+    400018: //RootNode
+    400020: OB4 2GlF_MeshPart1
+    400022: OB4 L
+    400024: OB4 1WI
+    400026: OB4 2WI
+    400028: OB4 1Fl
+    400030: OB4 2Rt
+    400032: OB4 2WH
+    400034: OB4 2GlF
+    400036: OB4 LB
+    400038: OB4 FpBT
+    400040: OB4 2WRt
+    400042: OB4 2Cl
+    400044: OB4 FpBB
+    400046: OB4 Prm
+    400048: OB4 2Gl
+    400050: OB4 2GlF_MeshPart0
+    400052: OB4 1GlF_MeshPart1
+    400054: OB4 1GlF_MeshPart0
+    400056: OB4 Fp
+    2300000: OB4 1WRt
+    2300002: OB4 1WV
+    2300004: OB4 1Cl
+    2300006: OB4 1Rt
+    2300008: OB4 2Fl
+    2300010: OB4 1WH
+    2300012: OB4 2WV
+    2300014: OB4 1Gl
+    2300016: OB4 2GlF_MeshPart1
+    2300018: OB4 L
+    2300020: OB4 1WI
+    2300022: OB4 2WI
+    2300024: OB4 1Fl
+    2300026: OB4 2Rt
+    2300028: OB4 2WH
+    2300030: OB4 LB
+    2300032: OB4 FpBT
+    2300034: OB4 2WRt
+    2300036: OB4 2Cl
+    2300038: OB4 FpBB
+    2300040: OB4 Prm
+    2300042: OB4 2Gl
+    2300044: OB4 2GlF_MeshPart0
+    2300046: OB4 1GlF_MeshPart1
+    2300048: OB4 1GlF_MeshPart0
+    2300050: OB4 Fp
+    3300000: OB4 1WRt
+    3300002: OB4 1WV
+    3300004: OB4 1Cl
+    3300006: OB4 1Rt
+    3300008: OB4 2Fl
+    3300010: OB4 1WH
+    3300012: OB4 2WV
+    3300014: OB4 1Gl
+    3300016: OB4 2GlF_MeshPart1
+    3300018: OB4 L
+    3300020: OB4 1WI
+    3300022: OB4 2WI
+    3300024: OB4 1Fl
+    3300026: OB4 2Rt
+    3300028: OB4 2WH
+    3300030: OB4 LB
+    3300032: OB4 FpBT
+    3300034: OB4 2WRt
+    3300036: OB4 2Cl
+    3300038: OB4 FpBB
+    3300040: OB4 Prm
+    3300042: OB4 2Gl
+    3300044: OB4 2GlF_MeshPart0
+    3300046: OB4 1GlF_MeshPart1
+    3300048: OB4 1GlF_MeshPart0
+    3300050: OB4 Fp
+    4300000: OB4 FpBT
+    4300002: OB4 Fp
+    4300004: OB4 2WI
+    4300006: OB4 1WI
+    4300008: OB4 Prm
+    4300010: OB4 FpBB
+    4300012: OB4 2Cl
+    4300014: OB4 1Cl
+    4300016: OB4 1Fl
+    4300018: OB4 1WH
+    4300020: OB4 2Rt
+    4300022: OB4 1Rt
+    4300024: OB4 2WRt
+    4300026: OB4 1WRt
+    4300028: OB4 2Fl
+    4300030: OB4 1WV
+    4300032: OB4 2WH
+    4300034: OB4 2WV
+    4300036: OB4 2Gl
+    4300038: OB4 1Gl
+    4300040: OB4 1GlF_MeshPart0
+    4300042: OB4 1GlF_MeshPart1
+    4300044: OB4 2GlF_MeshPart0
+    4300046: OB4 2GlF_MeshPart1
+    4300048: OB4 L
+    4300050: OB4 LB
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
